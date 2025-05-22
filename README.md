@@ -50,3 +50,27 @@ json:
     "averagePrice": 20.0
   }
 ] 
+Question 4: React Build a Dynamic To-Do List Application in React.
+Objective:
+Create a React application that allows users to manage a to-do list with the following features:
+ •	Add new tasks
+ •	Mark tasks as complete
+ •	Delete tasks
+ •	Filter tasks by all, completed, and pending
+ •	Persist tasks in the local storage so that they are retained after a page refresh
+Requirements:
+1.	UI Components:
+ o	Create a TodoApp component as the main component.
+ o	Create a TodoList component to display the list of tasks.
+ o	Create a TodoItem component to represent each task.
+ o	Create an AddTodo component for adding new tasks.
+ o	Create a Filter component to filter tasks.
+2.	State Management:
+ o	Use the useState and useEffect hooks for state management.
+ o	Use local storage to persist the tasks.
+3.	Functionality:
+ o	Add a new task with a text input.
+ o	Mark a task as complete/incomplete by clicking on it.
+ o	Delete a task.
+ o	Filter tasks by all, completed, and pending.
+ o	Persist tasks in local storage.
